@@ -1,0 +1,10 @@
+.text-correct {
+    color: rgb(144, 146, 144);
+   
+}
+
+.text-incorrect {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: 600;
+  }
